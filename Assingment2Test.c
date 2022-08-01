@@ -1,9 +1,4 @@
 /*
-Stefan Djelmo
-041038119
-July 24th, 2022
-Theory Professor: Rama Thavasinadar
-Lab Professor: Dave Houtman
 Duration: 
 This program releases values that is stored in a .h file and you will be given the option to swap a certain character 
 and will permanently change it for the duration of the program running.
