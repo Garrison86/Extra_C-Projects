@@ -5,7 +5,7 @@ and will permanently change it for the duration of the program running.
 */
 #include <stdio.h>
 #include <stdlib.h>
-//#include "041038119.h"
+
 char cipherText[] = {"CR CAAGNCPEGKF GQMCUWGYGN XF EWG APMWCQG BWCMW EYPQRACER EWG MCUWGY KGEEGY CQREGPN DJ"};
 #define SIZE_CIPHER (sizeof(cipherText) / sizeof(cipherText[0]))//size of the cipher text divided by 1
 #define SIZE 26
